@@ -2,20 +2,20 @@
 <table>
     <tr>
       <td>
-      <img src='https://www.pngitem.com/pimgs/m/432-4321754_eu-logo-european-union-hd-png-download.png' width=450>
-      </td>
-      <td>
-      <img src='https://www.ideal-ist.eu/sites/default/files/2018-10/logo_quantum_flagship.jpg' width=510>
+      <img src='https://www.ideal-ist.eu/sites/default/files/2018-10/logo_quantum_flagship.jpg' width=450>
       </td>
       <td>
       <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Logo_UniJena.svg/1200px-Logo_UniJena.svg.png' width=450>
+      </td>
+      <td>
+      <img src='https://www.akc.ac.cy/images/2022/03/Funded-by-the-European-Union.png' width=450>
       </td>
      </tr>
 </table>
 
 <div style="text-align: center; margin: 50px">
 
-<h1 style="text-align: center;">Quantum Computation, Summer Semester 2022</h1>
+<h1 style="text-align: center;">Quantum Computation, Summer 2022</h1>
 <h2 style="text-align: center;"><a href="https://qt.eu/">European Union Quantum Flagship /</a> <a href="https://qtom.qtedu.eu/">QTEdu Quantum Technology Open Master</a></h2>
 <h2 style="text-align: center;"><a href="https://www.uni-jena.de/en">Friedrich Schiller University Jena</a></h2>
 <h3><em>Pauli Operators</em></h3>
@@ -24,7 +24,7 @@
 <p>are used in quantum information for single-qubit operations.</p>
 <p>They can be used to describe the spin of an electron or polarization of a photon.</p>
 
-<h4>More information is provided via Jupyter Notebook <a href="https://github.com/fomalhautn/Pauli_Operators/blob/main/Pauli%20Operators.ipynb"><em>Pauli_Operators.ipynb</em></a></h4>
+<h2>More information is provided via Jupyter Notebook <a href="https://github.com/fomalhautn/Pauli_Operators/blob/main/Pauli%20Operators.ipynb"><em>Pauli_Operators.ipynb</em></a></h2>
 
 <h3>Anastasiia Andriievska</h3>
 
