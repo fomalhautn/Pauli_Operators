@@ -24,7 +24,7 @@
 <p>are used in quantum information for single-qubit operations.</p>
 <p>They can be used to describe the spin of an electron or polarization of a photon.</p>
 
-<h2>More information is provided via Jupyter Notebook <a href="https://github.com/fomalhautn/Pauli_Operators/blob/main/Pauli%20Operators.ipynb"><em>Pauli_Operators.ipynb</em></a></h2>
+<h2>More information is provided via Jupyter Notebook: <a href="https://github.com/fomalhautn/Pauli_Operators/blob/main/Pauli%20Operators.ipynb"><em>Pauli_Operators.ipynb</em></a></h2>
 
 <h3>Anastasiia Andriievska</h3>
 
